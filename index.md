@@ -31,8 +31,9 @@ Task Lists
 - [ ] Get a good grade on module 4 and quiz 4
 
 Tables
+
 Header A | Header B
------------- | -------------
+-------- | --------
 Cell A1 | Cell B1
 Cell A2 | Cell B2
 
