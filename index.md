@@ -17,12 +17,17 @@ _**Bold and italics**_
   1. List
   
 Block Quotes
+
 exerpt from the Jabberwocky, by Lewis Carroll
 
 > Twas brillig and the slithy toves,
+
 > Did gyre and gimble in the wave,
+
 > All mimsy were the borogroves,
+
 > And the mome raths outgrabe.
+
 
 Task Lists
 - [x] Get a good grade on module 1 and quiz 1
