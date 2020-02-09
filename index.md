@@ -1,5 +1,33 @@
 ## Welcome to GitHub Pages
 
+Examples of **Markdown** for CS250 Module 4, step 3
+**Bold**
+*Italics*
+_**Bold and italics**_
+
+* An
+* Unordered
+  * List
+  
+1. An
+1. Ordered
+  1. List
+  
+Block Quotes
+exerpt from the Jabberwocky, by Lewis Carroll
+
+> Twas brillig and the slithy toves
+> Did gyre and gimble in the wave
+> All mimsy were the borogroves
+> And the mome raths outgrabe.
+
+Task Lists
+- [x] Get a good grade on module 1 and quiz 1
+- [x] Get a good grade on module 2 and quiz 2
+- [x] Get a good grade on module 3 and quiz 3
+- [ ] Get a good grade on module 4 and quiz 4
+
+
 You can use the [editor on GitHub](https://github.com/Jabberwocky42/Jabberwocky42.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -20,6 +48,15 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+Tabels
+Header A | Header B
+------------ | -------------
+Cell A1 | Cell B1
+Cell A2 | Cell B2
+
+~~Strikethroughs~~
+
 
 **Bold** and _Italic_ and `Code` text
 
