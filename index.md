@@ -21,11 +21,8 @@ Block Quotes
 exerpt from the Jabberwocky, by Lewis Carroll
 
 > Twas brillig and the slithy toves,
-
 > Did gyre and gimble in the wave,
-
 > All mimsy were the borogroves,
-
 > And the mome raths outgrabe.
 
 
